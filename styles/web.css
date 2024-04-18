@@ -1,0 +1,61 @@
+
+body{
+    background-color: rgb(171, 187, 181);
+}
+
+.log{
+    margin: 0 40%;
+}
+.log-info{
+    font-size: 80px;
+    color: rgb(187, 25, 25);
+    padding:  5px 30px;
+}
+
+
+/* main part */
+
+.title{
+    margin-left: 220px;
+    color: rgb(14, 13, 13);
+}
+
+.main-part{
+    margin: 20px 150px;
+}
+.contact input,button{
+    display: block;
+    margin-bottom: 25px;
+}
+.contact input{
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 60%;
+    height: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(252, 241, 227);
+    border-radius: 5px;
+    border-style: none;
+}
+.contact button{
+    margin: 100px 450px;
+    padding: 5px 15px;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(249, 145, 26);
+}
+
+/* footer part */
+
+footer{
+    margin-top: 150px;
+    height: 200px;
+}
+.fot{
+    display: inline;
+    margin: 50px 500px;
+    
+}
