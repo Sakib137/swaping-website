@@ -39,6 +39,8 @@ body{
     border-style: none;
 }
 .contact button{
+    font-size: 22px;
+    color: rgb(17, 12, 12);
     margin: 100px 450px;
     padding: 5px 15px;
     width: 250px;
